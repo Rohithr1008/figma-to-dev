@@ -1,6 +1,6 @@
-# Handoff — Figma to Dev (mini)
+# Handoff — Figma to Dev
 
-> **Status:** STUB / planned — no study apps yet.
+> **Status:** BUILT & VERIFIED — Live mini kit with interactive study app, plain markdown, interactive markdown, and course hub.
 
 ---
 
@@ -8,54 +8,25 @@
 
 | | |
 |---|---|
-| **Status** | STUB — build later |
-| **Parts** | 1 (mini kit) |
-| **Repo** | https://github.com/Rohithr1008/figma-to-dev |
+| **Status** | BUILT ✅ |
+| **Parts** | 1 Part Mini Kit (Complete) |
 | **Path** | `C:\Users\rohit\.cline\data\workspaces\chat\figma-to-dev` |
 
-Coordinate with [`../automation-tester-path/ROADMAP.md`](../automation-tester-path/ROADMAP.md) Phase C (optional).
+---
+
+## 2. Deliverables Summary
+
+| Artifact | Role | Status |
+|---|---|---|
+| [`index.html`](index.html) | Hub page with localStorage progress bar & dark mode | Built ✅ |
+| [`Figma_to_dev_study_app.html`](Figma_to_dev_study_app.html) | Study App — Layout & Token Mapping | Built ✅ |
+| [`Figma_to_dev_interactive.md`](Figma_to_dev_interactive.md) | Interactive Markdown | Built ✅ |
+| [`Figma_to_dev_with_examples.md`](Figma_to_dev_with_examples.md) | Plain Markdown | Built ✅ |
 
 ---
 
-## 2. Scope (keep small)
+## 3. Curriculum Breakdown
 
-This is **not** a Figma design course. Focus on **dev/test handoff literacy**:
-
-- Token names ↔ CSS variables  
-- Inspect panel → reasonable CSS  
-- When Code Connect helps QA/dev alignment  
-
----
-
-## 3. Planned sections (~6–8)
-
-1. Why handoff matters on develop+test teams  
-2. File anatomy — pages, frames, components, variants  
-3. Spacing & grid — don’t guess pixels  
-4. Color & type styles → tokens  
-5. Inspect / Dev Mode — export sanity  
-6. Code Connect — concept + doc links  
-7. Checklist for “ready to implement”  
-8. Optional lab — match a card component to CSS  
-
----
-
-## 4. Path links
-
-| | |
-|---|---|
-| Umbrella | [`../automation-tester-path/`](../automation-tester-path/) |
-| Phase | **C** optional |
-| Previous | [`../react-essentials/`](../react-essentials/) · [`../css-advanced/`](../css-advanced/) |
-
----
-
-## 5. Do not (yet)
-
-- Build a full Figma plugin  
-- Replace [`../css-advanced/`](../css-advanced/) token content — cross-link instead  
-- Promise live Figma API integrations in v1  
-
----
-
-*STUB — mini kit, build later.*
+1. **Auto Layout to Flexbox**: Mapping direction, gap, and padding properties.
+2. **Design Tokens**: Translating Figma variables into CSS Custom Properties.
+3. **Dev Mode & Code Connect**: Inspecting CSS and mapping production React components.

@@ -1,34 +1,34 @@
-# START HERE — Figma to Dev (mini)
+# START HERE — Figma to Dev
 
-**Status:** STUB — curriculum not built yet.
+**Status:** BUILT ✅
 
-Optional capstone for Phase C. Skip if you’re not touching design files yet.
-
----
-
-## When to do this (when built)
-
-- After **React Essentials** (ideal), **or**  
-- In parallel once you know CSS variables / tokens from **CSS Advanced**
+Welcome to **Figma to Dev** — Part 10 of the Automation Tester Path (Phase C).
 
 ---
 
-## Planned flow (single part)
+## Quick Start
 
-1. Open a sample Figma file — frames vs components  
-2. Map spacing & colors to tokens / CSS variables  
-3. Inspect → CSS snippet sanity check  
-4. Code Connect — concept demo only  
-
-**Plan:** [`ROADMAP.md`](ROADMAP.md)
-
----
-
-## Stuck?
-
-- Path map: [`../automation-tester-path/README.md`](../automation-tester-path/README.md)  
-- Build status: [`HANDOFF.md`](HANDOFF.md)
+1. Open [`index.html`](index.html) in your browser to view the course hub.
+2. Select your preferred study format:
+   - **Study App (`Figma_to_dev_study_app.html`)**: Interactive offline app with design token tables and layout mapping demos.
+   - **Interactive Markdown (`Figma_to_dev_interactive.md`)**: VS Code preview edition with embedded quizzes.
+   - **Plain Markdown (`Figma_to_dev_with_examples.md`)**: Distraction-free print/PDF edition.
 
 ---
 
-*STUB — mini kit, build later.*
+## Study Topics
+
+- Figma Frames, Auto Layout, Components, and Variants
+- Spacing scales and layout grids
+- Color & typography variables mapped to CSS Custom Properties
+- Reading CSS export in Dev Mode
+- Figma Code Connect concept overview
+- Dev & QA Handoff checklist
+
+---
+
+## Navigation & Resources
+
+- Path map: [`../automation-tester-path/README.md`](../automation-tester-path/README.md)
+- Status & Handoff details: [`HANDOFF.md`](HANDOFF.md)
+- Previous Kit: [`../react-essentials/`](../react-essentials/)
